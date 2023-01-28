@@ -452,6 +452,12 @@ blablabla
 <!-- RColorBrewer::brewer.pal(10, "Set1") #but then try with 9 -->
 <!-- ``` -->
 
+<!-- dat <- data.frame(value = c(1,2,3), group = c("house", "dog", "house")) -->
+<!-- ?split -->
+<!-- split(dat$value, dat$group) -->
+<!-- vapply(split(dat$value, dat$group), mean, numeric(1L)) -->
+<!-- aggregate(value ~ group, dat, mean) -->
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 knitr::opts_chunk$set(cache = TRUE)

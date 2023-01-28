@@ -383,7 +383,7 @@ blablabla
 
 \newcommand{\ep}{\varepsilon}
 
-<!-- \newcommand{\Rlogo}{![](R_logo.png){#id .class width=auto height=16px} } <!-- R logo implemented in text -->
+<!-- \newcommand{\Rlogo}{![](../Data/R_logo.png){#id .class width=auto height=16px} } <!-- R logo implemented in text -->
 
 <!-- Image insertion alla LaTeX doesn't seem to work too well..., but inserting the above gives the desired effect. -->
 
